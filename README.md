@@ -11,8 +11,8 @@
 | 课时 | 文件夹 | 内容 | 状态 |
 | :---: | :--- | :--- | :---: |
 | 01 | [01_hello_langgraph](./01_hello_langgraph) | 从零开始打造一个 Agent | ✅ 已完成 |
-| 02 | 02_langgraph_components | LangGraph 组件 | 📅 待学习 |
-| 03 | 03_agent_search_tool | Agent 搜索工具 | 📅 待学习 |
+| 02 | 02_langgraph_components | LangGraph 组件 | ✅ 已完成 |
+| 03 | 03_agent_search_tool | Agent 搜索工具 | ✅ 已完成 |
 | 04 | 04_persistence_streaming | 持久化与流式传输 | 📅 待学习 |
 | 05 | 05_human_in_loop | 人类在流程中 | 📅 待学习 |
 | 06 | 06_paper_writer | 论文写手 | 📅 待学习 |
@@ -21,16 +21,22 @@
 ---
 
 ## 📂 项目结构
-anggraph-learning/
-├── README.md
+langgraph-learning/
+├── README.md                           # ✅ 已更新
 ├── .gitignore
 ├── LICENSE
 ├── requirements.txt
-├── 01_hello_langgraph/ # ✅ 已完成
-│ ├── main.py # 第一个 LangGraph 程序
-│ └── README.md
-├── 02_xxx/ # 📅 待学习
-└── ...
+├── .env.example
+├── 01_hello_langgraph/                  # ✅ 第1课
+│   ├── main.py
+│   └── README.md
+├── 02_langgraph_components/             # ✅ 第2课
+│   ├── main.py
+│   └── README.md
+├── 03_agent_search_tool/                # ✅ 第3课（新！）
+│   ├── main.py
+│   └── README.md
+└── 04_xxx/                              # 📅 待学习
 
 text
 
