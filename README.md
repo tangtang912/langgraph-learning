@@ -13,7 +13,7 @@
 | 01 | [01_hello_langgraph](./01_hello_langgraph) | 从零开始打造一个 Agent | ✅ 已完成 |
 | 02 | 02_langgraph_components | LangGraph 组件 | ✅ 已完成 |
 | 03 | 03_agent_search_tool | Agent 搜索工具 | ✅ 已完成 |
-| 04 | 04_persistence_streaming | 持久化与流式传输 | 📅 待学习 |
+| 04 | 04_persistence_streaming | 持久化与流式传输 | ✅ 已完成 |
 | 05 | 05_human_in_loop | 人类在流程中 | 📅 待学习 |
 | 06 | 06_paper_writer | 论文写手 | 📅 待学习 |
 | 07 | 07_langchain_resources | LangChain 资源 | 📅 待学习 |
@@ -33,14 +33,14 @@ langgraph-learning/
 ├── 02_langgraph_components/             # ✅ 第2课
 │   ├── main.py
 │   └── README.md
-├── 03_agent_search_tool/                # ✅ 第3课（新！）
+├── 03_agent_search_tool/                # ✅ 第3课
 │   ├── main.py
 │   └── README.md
-└── 04_xxx/                              # 📅 待学习
+└├── 04_persistence_streaming/     # ✅ 第4课
+│   ├── main.py
+│   └── README.md
 
-text
 
----
 
 ## 🚀 快速开始
 
